@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Furniro6"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../41 lesson transform"
+		},
+		{
+			"path": "../../../40 lesson transform"
+		},
+		{
+			"path": "../../../9 lesson flex-box"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Furniro6"
+	}
+}
